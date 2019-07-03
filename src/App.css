@@ -19,7 +19,7 @@ h1,p{
   background-size: cover;
   background-position: bottom center;
   background-image: url('img/bg.jpg');
-  filter: grayscale(1);
+  /* filter: grayscale(1); */
 }
 .mainHome__bg::before{
   content: "";
